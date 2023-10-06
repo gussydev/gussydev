@@ -9,7 +9,7 @@ const nextBirthDay = moment( (moment().year() + 1) + '-02-21', 'YYYY-MM-DD');
 
 let gusInformation = {
     name: 'Gus~~tavo~~',
-    age: moment.duration(currentDate.diff(birthDate)).asYears().toFixed(0),
+    age: Math.trunc(moment.duration(currentDate.diff(birthDate)).asYears()),
     birthday: nextBirthDay.fromNow(),
     lastUpdate: currentDate.format('llll')
 };
