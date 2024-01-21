@@ -5,12 +5,13 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 
 const birthDate = moment('1999-02-21', 'YYYY-MM-DD');
 const currentDate = moment();
+const thisYearBirthDay = moment( (moment().year()) + '-02-21', 'YYYY-MM-DD');
 const nextBirthDay = moment( (moment().year() + 1) + '-02-21', 'YYYY-MM-DD');
 
 let gusInformation = {
     name: 'Gus~~tavo~~',
     age: Math.trunc(moment.duration(currentDate.diff(birthDate)).asYears()),
-    birthday: nextBirthDay.fromNow(),
+    birthday: currentDate.isAfter(thisYearBirthday) ? nextBirthDay.fromNow() : thisYearBirthDay.fromNow(),
     lastUpdate: currentDate.format('llll')
 };
 
