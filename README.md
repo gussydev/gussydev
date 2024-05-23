@@ -41,7 +41,7 @@
 </h3>
 
 - First started programming to host a private server of a game I used to play. I was 12 years old back then;
-- My current goal is to move to US to live with my girlfriend in about two years. Doing my best to get there;
+- My current goal is to move to US to live with my fiancé in about two years. Doing my best to get there;
 - I love listening to music and drinking some good beer.
 
 <hr />
