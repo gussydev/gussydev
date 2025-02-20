@@ -9,8 +9,8 @@
 <h3 align="center">General</h3>
 
 - **Name:** **Gus**_~~tavo~~_
-- **Age:** 25
-- **Birthday:** in 18 hours
+- **Age:** 26
+- **Birthday:** in 12 hours
 - **Country:** Brazil
 - **Pronouns:** He/him
 
@@ -49,5 +49,5 @@
     Last update
 </h3>
 <p align="center">
-    <b>Thu, Feb 20, 2025 6:07 AM.</b>
+    <b>Thu, Feb 20, 2025 12:09 PM.</b>
 </p>
