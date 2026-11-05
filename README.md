@@ -10,7 +10,7 @@
 
 - **Name:** **Gus**_~~tavo~~_
 - **Age:** 27
-- **Birthday:** in 4 months
+- **Birthday:** in 3 months
 - **Country:** Brazil
 - **Pronouns:** He/him
 
@@ -49,5 +49,5 @@
     Last update
 </h3>
 <p align="center">
-    <b>Thu, Nov 5, 2026 2:20 PM.</b>
+    <b>Thu, Nov 5, 2026 11:26 PM.</b>
 </p>
